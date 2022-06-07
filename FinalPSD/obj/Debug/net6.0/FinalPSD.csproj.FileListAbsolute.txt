@@ -1,0 +1,15 @@
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\bin\Debug\net6.0\FinalPSD.exe
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\bin\Debug\net6.0\FinalPSD.deps.json
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\bin\Debug\net6.0\FinalPSD.runtimeconfig.json
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\bin\Debug\net6.0\FinalPSD.dll
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\bin\Debug\net6.0\ref\FinalPSD.dll
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\bin\Debug\net6.0\FinalPSD.pdb
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\obj\Debug\net6.0\FinalPSD.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\obj\Debug\net6.0\FinalPSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\obj\Debug\net6.0\FinalPSD.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\obj\Debug\net6.0\FinalPSD.AssemblyInfo.cs
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\obj\Debug\net6.0\FinalPSD.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\obj\Debug\net6.0\FinalPSD.dll
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\obj\Debug\net6.0\ref\FinalPSD.dll
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\obj\Debug\net6.0\FinalPSD.pdb
+C:\Users\chris\Desktop\Kuliah\PatternSoftwareDesign\Final\FinalPSD\FinalPSD\obj\Debug\net6.0\FinalPSD.genruntimeconfig.cache
